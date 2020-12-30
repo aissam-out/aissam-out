@@ -50,7 +50,7 @@ Intro... blablablablablablablablablablablablablablablablablablablablablablablabl
 
  ---
  
-[![Aissam's github stats](https://github-readme-stats.vercel.app/api?username=aissam-out)](https://github.com/anuraghazra/github-readme-stats)
+[![Aissam's github stats](https://github-readme-stats.vercel.app/api?username=aissam-out)](https://github.com/aissam-out/github-readme-stats)
 
 
 <!--
