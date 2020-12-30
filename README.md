@@ -1,4 +1,4 @@
-# [![aissam out header](./images/eye.jpg)](https://waylonwalker.com)
+# [![aissam out header](./images/eye.jpg)](https://www.linkedin.com/in/aissam-outchakoucht/)
 
 <p align='center'>
 <a href="https://twitter.com/aissam_out"><img height="30" src="./images/twitter.png"></a>&nbsp;&nbsp;
@@ -7,6 +7,38 @@
 </p>
 
 ### Hi there 👋
+
+ <p>
+  <img width="250" align='left' src="./images/python.png">
+</p>
+
+Intro... blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla
+
+ ---
+ 
+ <p>
+  <img width="250" align='left' src="./images/medium.png">
+</p>
+ 
+### Medium articles
+
+x
+y
+z
+
+ ---
+ 
+ <p>
+  <img width="250" align='left' src="./images/rnd.png">
+</p>
+ 
+### Scientific papers
+
+x
+y
+z
+
+ ---
 
 <!--
 **aissam-out/aissam-out** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
