@@ -45,7 +45,7 @@ Intro... blablablablablablablablablablablablablablablablablablablablablablablabl
 ![](https://img.shields.io/badge/DeepLearning-Keras-informational?style=flat&logo=keras&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/RTDataBase-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Chatbot-Dialogflow-informational?style=flat&logo=dialogflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/VoiceAssistant-Alexa-informational?style=flat&logo=amazonalexa&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VoiceAssistant-Alexa-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
 
  ---
 
