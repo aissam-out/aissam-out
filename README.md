@@ -32,19 +32,11 @@ Intro... blablablablablablablablablablablablablablablablablablablablablablablabl
 > What made humans unique and therefore let them triumph over this planet, is their ability to add flexibility to the common ingredients of emergence: number and cooperation
 
  ---
- 
- <p>
-  <img width="150" align='right' src="./images/rnd.png">
-</p>
- 
-### Scientific papers
 
-x<br>
-y<br>
-z<br>
-a<br>
-b<br>
-c
+### Technologies and tools
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+
 
  ---
 
