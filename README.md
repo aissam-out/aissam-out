@@ -12,7 +12,13 @@
   <img width="150" align='right' src="./images/python.png">
 </p>
 
-Intro... blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla
+Researcher, programmer and passionate about Machine/Deep Learning, currently working as Head of R&D lab at MonarkIT, Marrakech.
+
+I'm very interested in developping applications (skills/actions) for voice assistants, namely Amazon's Alexa and Google Assistant.
+
+I use Python, Python and Python ..
+
+You can find me in twitter : [@aissam_out](https://twitter.com/aissam_out)
 
  ---
  
