@@ -1,9 +1,9 @@
-# [![aissam out header](https://raw.githubusercontent.com/aissam-out/aissam-out/main/images/eye.jpg?token=AJKAROLETGW6ESQYZW4I64275T2S4)](https://waylonwalker.com)
+# [![aissam out header](./images/eye.jpg)](https://waylonwalker.com)
 
 <p align='center'>
-<a href="https://twitter.com/aissam_out"><img height="30" src="https://raw.githubusercontent.com/aissam-out/aissam-out/main/images/twitter.png?token=AJKAROKFJP7UXBHJN7TO4OS75TZWQ"></a>&nbsp;&nbsp;
-<a href="https://aissam-outchakoucht.medium.com/"><img height="30" src="https://raw.githubusercontent.com/aissam-out/aissam-out/main/images/medium.png?token=AJKAROIS3ABP4RNQVX4JJ4K75TZWE"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/aissam-outchakoucht/"><img height="30" src="https://raw.githubusercontent.com/aissam-out/aissam-out/main/images/linkedin.png?token=AJKAROJQOZ5HSPHBOREUW2275TZV2"></a>
+<a href="https://twitter.com/aissam_out"><img height="30" src="./images/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://aissam-outchakoucht.medium.com/"><img height="30" src="./images/medium.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/aissam-outchakoucht/"><img height="30" src="./images/linkedin.png"></a>
 </p>
 
 ### Hi there 👋
