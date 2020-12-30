@@ -50,9 +50,9 @@ Intro... blablablablablablablablablablablablablablablablablablablablablablablabl
 
  ---
  
-<img align="center" src="https://github-readme-stats.vercel.app/api/index/?username=aissam-out&hide=issues&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/index/?username=aissam-out&hide=issues&theme=radical&show_icons=true" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aissam-out&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aissam-out&theme=radical&show_icons=true" />
 
 
 
