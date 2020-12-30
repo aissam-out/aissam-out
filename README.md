@@ -49,6 +49,9 @@ Intro... blablablablablablablablablablablablablablablablablablablablablablablabl
 ![](https://img.shields.io/badge/VoiceAssistant-Alexa-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
 
  ---
+ 
+[![Aissam's github stats](https://github-readme-stats.vercel.app/api?username=aissam-out)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **aissam-out/aissam-out** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
