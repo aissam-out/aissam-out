@@ -22,10 +22,10 @@ Intro... blablablablablablablablablablablablablablablablablablablablablablablabl
  
 ### Medium articles
 
-x
-y
-z
-a
+x<br>
+y<br>
+z<br>
+a<br>
 
  ---
  
@@ -35,11 +35,11 @@ a
  
 ### Scientific papers
 
-x
-y
-z
-a
-b
+x<br>
+y<br>
+z<br>
+a<br>
+b<br>
 c
 
  ---
