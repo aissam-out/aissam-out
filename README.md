@@ -52,7 +52,7 @@ Intro... blablablablablablablablablablablablablablablablablablablablablablablabl
  
 ![Aissam's github stats](https://github-readme-stats.vercel.app/api?username=aissam-out)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/stats/?username=aissam-out&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/index/?username=aissam-out&theme=radical" />
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aissam-out&theme=radical" />
 
