@@ -50,7 +50,11 @@ Intro... blablablablablablablablablablablablablablablablablablablablablablablabl
 
  ---
  
-[![Aissam's github stats](https://github-readme-stats.vercel.app/api?username=aissam-out)](https://github.com/aissam-out/github-readme-stats)
+![Aissam's github stats](https://github-readme-stats.vercel.app/api?username=aissam-out)
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=aissam-out&theme=radical" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aissam-out)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
