@@ -9,7 +9,7 @@
 ### Hi there 👋
 
  <p>
-  <img width="250" align='left' src="./images/python.png">
+  <img width="150" align='right' src="./images/python.png">
 </p>
 
 Intro... blablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablablabla
@@ -17,7 +17,7 @@ Intro... blablablablablablablablablablablablablablablablablablablablablablablabl
  ---
  
  <p>
-  <img width="250" align='left' src="./images/medium.png">
+  <img width="150" align='left' src="./images/medium.png">
 </p>
  
 ### Medium articles
@@ -25,11 +25,12 @@ Intro... blablablablablablablablablablablablablablablablablablablablablablablabl
 x
 y
 z
+a
 
  ---
  
  <p>
-  <img width="250" align='left' src="./images/rnd.png">
+  <img width="150" align='right' src="./images/rnd.png">
 </p>
  
 ### Scientific papers
@@ -37,6 +38,9 @@ z
 x
 y
 z
+a
+b
+c
 
  ---
 
