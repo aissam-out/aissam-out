@@ -23,14 +23,13 @@ Intro... blablablablablablablablablablablablablablablablablablablablablablablabl
 ### Medium articles
 
 [A guide to building WhatsApp chatbots using Dialogflow and FireBase](https://towardsdatascience.com/a-guide-to-building-whatsapp-chatbots-using-dialogflow-and-firebase-4ff5e904ac3)<br>
-A step-by-step tutorial to create smart chatbots for your business and have them to interact with your backend <br>
+> A step-by-step tutorial to create smart chatbots for your business and have them to interact with your backend <br>
 
 [Machine Learning in production: Keras, Flask, Docker and Heroku](https://towardsdatascience.com/machine-learning-in-production-keras-flask-docker-and-heroku-933b5f885459)<br>
-Pipeline for ML/DL solutions: Build the model, create an API to interact with it, containerize it and deploy it <br>
+> Pipeline for ML/DL solutions: Build the model, create an API to interact with it, containerize it and deploy it <br>
 
 [Emergence as the starting point to Artificial General Intelligence](https://aissam-outchakoucht.medium.com/emergence-as-the-starting-point-to-artificial-general-intelligence-a789ecce388b)<br>
-a<br>
-What made humans unique and therefore let them triumph over this planet, is their ability to add flexibility to the common ingredients of emergence: number and cooperation
+> What made humans unique and therefore let them triumph over this planet, is their ability to add flexibility to the common ingredients of emergence: number and cooperation
 
  ---
  
