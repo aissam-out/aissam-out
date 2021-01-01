@@ -22,6 +22,23 @@ You can find me on twitter : [@aissam_out](https://twitter.com/aissam_out)
 
  ---
  
+ ### Technologies and tools
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Web-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/PaaS-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DeepLearning-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/DeepLearning-Keras-informational?style=flat&logo=keras&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/RTDataBase-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Chatbot-Dialogflow-informational?style=flat&logo=dialogflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/VoiceAssistant-Alexa-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
+
+ ---
+ 
  <p>
   <img width="150" align='right' src="./images/medium.png">
 </p>
@@ -36,23 +53,6 @@ You can find me on twitter : [@aissam_out](https://twitter.com/aissam_out)
 
 [Emergence as the starting point to Artificial General Intelligence](https://aissam-outchakoucht.medium.com/emergence-as-the-starting-point-to-artificial-general-intelligence-a789ecce388b)<br>
 > What made humans unique and therefore let them triumph over this planet, is their ability to add flexibility to the common ingredients of emergence: number and cooperation
-
- ---
-
-### Technologies and tools
-
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Web-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/PaaS-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DeepLearning-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DeepLearning-Keras-informational?style=flat&logo=keras&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/RTDataBase-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Chatbot-Dialogflow-informational?style=flat&logo=dialogflow&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/VoiceAssistant-Alexa-informational?style=flat&logo=amazon&logoColor=white&color=2bbc8a)
 
  ---
  
