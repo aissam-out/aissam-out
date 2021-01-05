@@ -40,7 +40,7 @@ You can find me on twitter : [@aissam_out](https://twitter.com/aissam_out)
  ---
 
 <details>
-<summary><h4>Medium articles</h4></summary>
+<summary><b>Medium articles</b></summary>
  <p>
   <img width="150" align='right' src="./images/medium.png">
 </p>
@@ -58,7 +58,7 @@ You can find me on twitter : [@aissam_out](https://twitter.com/aissam_out)
 
  ---
 <details>
-<summary><h2>GitHub Statistics</h2></summary>
+<summary><b>GitHub Statistics</b></summary>
 
 <p>
 <img align="right" src="https://github-readme-stats.vercel.app/api/index/?username=aissam-out&hide=issues&theme=radical&show_icons=true&count_private=true" />
