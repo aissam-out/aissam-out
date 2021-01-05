@@ -20,6 +20,7 @@ I use Python, Python and Python ..
 
 You can find me on twitter : [@aissam_out](https://twitter.com/aissam_out)
 
+![Profile views](https://gpvc.arturio.dev/[aissam-out])
  ---
  
  ### Technologies and tools
