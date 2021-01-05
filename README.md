@@ -1,9 +1,10 @@
 <!--# [![aissam out header](./images/eye.png)](https://www.linkedin.com/in/aissam-outchakoucht/)-->
 
 <p align='center'>
+<img height="30" src="./images/art.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/aissam_out"><img height="30" src="./images/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://aissam-outchakoucht.medium.com/"><img height="30" src="./images/medium.png"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/aissam-outchakoucht/"><img height="30" src="./images/linkedin.png"></a>
+<img height="30" src="./images/art.png"></a>
 </p>
 
 ### Hi there 👋
