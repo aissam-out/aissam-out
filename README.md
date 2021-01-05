@@ -18,7 +18,9 @@ I'm very interested in developping applications (skills/actions) for voice assis
 
 I use Python, Python and Python ..
 
-You can find me on twitter : [@aissam_out](https://twitter.com/aissam_out)
+You can find me on twitter : ![](https://img.shields.io/twitter/url?label=%40aissam_out&style=social&url=https%3A%2F%2Ftwitter.com%2Faissam_out)
+
+[@aissam_out](https://twitter.com/aissam_out) 
 
  ---
  
