@@ -5,7 +5,7 @@
 <a href="https://twitter.com/aissam_out"><img height="30" src="./images/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://aissam-outchakoucht.medium.com/"><img height="30" src="./images/medium.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/aissam-outchakoucht/"><img height="30" src="./images/linkedin.png"></a>&nbsp;&nbsp;
-<img height="30" src="./images/artinvert.png"></a>
+<img height="30" src="./images/artinverted.png"></a>
 </p>
 
 ### Hi there 👋
