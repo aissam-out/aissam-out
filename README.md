@@ -38,7 +38,9 @@ You can find me on twitter : [@aissam_out](https://twitter.com/aissam_out)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 
  ---
- 
+
+<details>
+<summary>Medium articles</summary>
  <p>
   <img width="150" align='right' src="./images/medium.png">
 </p>
@@ -53,6 +55,8 @@ You can find me on twitter : [@aissam_out](https://twitter.com/aissam_out)
 
 [Emergence as the starting point to Artificial General Intelligence](https://aissam-outchakoucht.medium.com/emergence-as-the-starting-point-to-artificial-general-intelligence-a789ecce388b)<br>
 > What made humans unique and therefore let them triumph over this planet, is their ability to add flexibility to the common ingredients of emergence: number and cooperation
+
+</details>
 
  ---
 <details>
