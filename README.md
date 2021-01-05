@@ -57,9 +57,9 @@ You can find me on twitter : [@aissam_out](https://twitter.com/aissam_out)
  ---
  
 <p>
-<img align="right" src="https://github-readme-stats.vercel.app/api/index/?username=aissam-out&hide=issues&theme=radical&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/index/?username=aissam-out&hide=issues&theme=radical&show_icons=true&count_private=true" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aissam-out&theme=radical&show_icons=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aissam-out&theme=radical&show_icons=true&exclude_repo=Deep-Learning-Coursera" />
 </p>
 
 
