@@ -40,12 +40,10 @@ You can find me on twitter : [@aissam_out](https://twitter.com/aissam_out)
  ---
 
 <details>
-<summary>Medium articles</summary>
+<summary><h2>Medium articles</h2></summary>
  <p>
   <img width="150" align='right' src="./images/medium.png">
 </p>
- 
-### Medium articles
 
 [A guide to building WhatsApp chatbots using Dialogflow and FireBase](https://towardsdatascience.com/a-guide-to-building-whatsapp-chatbots-using-dialogflow-and-firebase-4ff5e904ac3)<br>
 > A step-by-step tutorial to create smart chatbots for your business and have them to interact with your backend <br>
@@ -60,7 +58,7 @@ You can find me on twitter : [@aissam_out](https://twitter.com/aissam_out)
 
  ---
 <details>
-<summary>GitHub Statistics</summary>
+<summary><h2>GitHub Statistics</h2></summary>
 
 <p>
 <img align="right" src="https://github-readme-stats.vercel.app/api/index/?username=aissam-out&hide=issues&theme=radical&show_icons=true&count_private=true" />
