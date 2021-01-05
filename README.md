@@ -55,6 +55,8 @@ You can find me on twitter : [@aissam_out](https://twitter.com/aissam_out)
 > What made humans unique and therefore let them triumph over this planet, is their ability to add flexibility to the common ingredients of emergence: number and cooperation
 
  ---
+<details>
+ <summary>### GitHub Statistics</summary>
  
 <p>
 <img align="right" src="https://github-readme-stats.vercel.app/api/index/?username=aissam-out&hide=issues&theme=radical&show_icons=true&count_private=true" />
@@ -62,7 +64,7 @@ You can find me on twitter : [@aissam_out](https://twitter.com/aissam_out)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aissam-out&theme=radical&show_icons=true" />
 </p>
 
-
+</details>
 
 <!--
 **aissam-out/aissam-out** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
