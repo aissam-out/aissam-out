@@ -40,7 +40,7 @@ You can find me on twitter : [@aissam_out](https://twitter.com/aissam_out)
  ---
 
 <details>
-<summary><h2>Medium articles</h2></summary>
+<summary><h4>Medium articles</h4></summary>
  <p>
   <img width="150" align='right' src="./images/medium.png">
 </p>
