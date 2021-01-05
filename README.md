@@ -56,10 +56,8 @@ You can find me on twitter : [@aissam_out](https://twitter.com/aissam_out)
 
  ---
 <details>
- 
-<summary>
-<a class="btnfire small stroke"><em class="fas fa-chevron-circle-down"></em>&nbsp;&nbsp;Show all details</a>    
-</summary>
+<summary>GitHub Statistics</summary>
+
 <p>
 <img align="right" src="https://github-readme-stats.vercel.app/api/index/?username=aissam-out&hide=issues&theme=radical&show_icons=true&count_private=true" />
 
