@@ -11,7 +11,7 @@
 ### Hi there 👋
 
  <p>
-  <img width="150" align='right' src="./images/python.png">
+  <img width="150" align='right' src="https://s3.us-east-1.amazonaws.com/accredible-api-templates/15784284048332915386973343827272.png">
 </p>
 
 I'm Aissam : Researcher, programmer and passionate about Machine/Deep Learning, currently working as Head of R&D at MonarkIT, Marrakech.
