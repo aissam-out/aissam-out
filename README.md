@@ -16,7 +16,7 @@
 
 I'm Aissam : Researcher, programmer and passionate about Machine/Deep Learning, currently working as Head of R&D at MonarkIT, Marrakech.
 
-I'm certified TensorFlow Developer, and I'm very interested in developping applications (skills/actions) for voice assistants, namely Amazon's Alexa and Google Assistant.
+I'm a certified TensorFlow Developer, and I'm very interested in developing applications (skills/actions) for voice assistants, namely Amazon's Alexa and Google Assistant.
 
 I use Python. 🐍
 
