@@ -47,6 +47,9 @@ You can find me on twitter : [@aissam_out](https://twitter.com/aissam_out)
   <img width="150" align='right' src="./images/medium.png">
 </p>
 
+[How to get the TensorFlow Developer Certificate using free Colab](https://aissam-outchakoucht.medium.com/how-to-get-the-tensorflow-developer-certificate-using-free-colab-675d2397445f)<br>
+> My thoughts about the TensorFlow Developer Certificate and how I managed to successfully prepare and pass the exam.
+
 [Deploy multiple Flask Applications using Nginx and Gunicorn](https://towardsdatascience.com/deploy-multiple-flask-applications-using-nginx-and-gunicorn-16f8f7865497))<br>
 > A journey through the process of deploying multiple Flask Applications on a Linux server using Nginx and Gunicorn.
 
