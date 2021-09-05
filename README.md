@@ -47,6 +47,9 @@ You can find me on twitter : [@aissam_out](https://twitter.com/aissam_out)
   <img width="150" align='right' src="./images/medium.png">
 </p>
 
+[Deploy multiple Flask Applications using Nginx and Gunicorn](https://towardsdatascience.com/deploy-multiple-flask-applications-using-nginx-and-gunicorn-16f8f7865497))<br>
+> A journey through the process of deploying multiple Flask Applications on a Linux server using Nginx and Gunicorn.
+
 [A guide to building WhatsApp chatbots using Dialogflow and FireBase](https://towardsdatascience.com/a-guide-to-building-whatsapp-chatbots-using-dialogflow-and-firebase-4ff5e904ac3)<br>
 > A step-by-step tutorial to create smart chatbots for your business and have them to interact with your backend <br>
 
@@ -70,17 +73,3 @@ You can find me on twitter : [@aissam_out](https://twitter.com/aissam_out)
 
 </details>
 
-<!--
-**aissam-out/aissam-out** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
