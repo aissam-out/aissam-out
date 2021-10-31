@@ -69,7 +69,7 @@ You can find me on twitter : [@aissam_out](https://twitter.com/aissam_out)
 <summary><b>GitHub Statistics</b></summary>
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/index/?username=aissam-out&hide=issues&theme=radical&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/index/?username=aissam-out&hide=issues&theme=radical&show_icons=true&count_private=true" />
 </p>
 
 </details>
