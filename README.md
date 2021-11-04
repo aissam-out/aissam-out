@@ -48,7 +48,7 @@ You can find me on twitter : [@aissam_out](https://twitter.com/aissam_out)
 </p>
 
 [Alexa Skills with Python : An Introduction](https://aissam-outchakoucht.medium.com/alexa-skills-with-python-an-introduction-f95175f9e7c3)<br>
-> An introductory post of a series about developing Alexa skills using Python.
+> The first post of a series of tutorials about how to develop Alexa skills using Python.
  
 [How to get the TensorFlow Developer Certificate using free Colab](https://aissam-outchakoucht.medium.com/how-to-get-the-tensorflow-developer-certificate-using-free-colab-675d2397445f)<br>
 > My thoughts about the TensorFlow Developer Certificate and how I managed to successfully prepare and pass the exam.
