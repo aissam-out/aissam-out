@@ -16,7 +16,9 @@
 
 I'm Aissam : Researcher, programmer and passionate about Machine/Deep Learning, currently working on Conversational AI @ affiniti.ai.
 
-I'm a certified TensorFlow Developer, and I'm very interested in developing applications (skills/actions) for voice assistants, namely Amazon's Alexa and Google Assistant.
+I'm a certified TensorFlow Developer, and I'm very interested in developing AI-based conversational applications: Chatbots, Alexa skills, Google actions, etc.
+
+Also, I started the largest open dataset of Moroccan dialect (Darija) ⇆ English translation: [Darija Open Dataset](https://github.com/darija-open-dataset/dataset).
 
 I use Python. 🐍
 
