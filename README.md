@@ -29,7 +29,7 @@ You can find me on twitter : [@aissam_out](https://twitter.com/aissam_out)
  ### Technologies and tools
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Django-092E20-informational?style=flat&logo=django&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DeepLearning-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DeepLearning-Keras-informational?style=flat&logo=keras&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Web-Flask-informational?style=flat&logo=flask&logoColor=white&color=2bbc8a)
